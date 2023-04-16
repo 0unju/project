@@ -12,7 +12,7 @@
 - 정보의 조작 방지를 위해 다른 Rasp에서 올바른 측정값인지 검증
 - 다른 Rasp들의 데이터 값 확인
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05a0ec55-d625-4310-aeb1-524df3661ede/Untitled.png)
+![image](https://user-images.githubusercontent.com/121041665/232259111-b3e33ad6-b878-49b0-b943-2fbb2edc2016.png)
 
 ### 🔧 역할 / 기여도
 
@@ -34,8 +34,7 @@
 - ‘2020 블록체인 아이디어 공모전’에서 한국인터넷진흥원 원장상 수상
 
 
-## 2️⃣ IoT 보안 인증 제도 기반 홈 IoT 기기 애플리케이션의
-     취약점 분석 및 대응책 제시
+## 2️⃣ IoT 보안 인증 제도 기반 홈 IoT 기기 애플리케이션의 취약점 분석 및 대응책 제시
 
 ### 📆 기간 : 2021. 01. ~ 2021. 06.
 
