@@ -1,4 +1,4 @@
-## 4️⃣ 와인 판매 사이트 ‘Bottle Shop’ 제작
+## 2️⃣ 와인 판매 사이트 ‘Bottle Shop’ 제작
 
 ### ❗❗❗ 코드 : https://github.com/0unju/bottleshop
 
